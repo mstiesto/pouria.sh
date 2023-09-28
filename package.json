@@ -59,7 +59,7 @@
   "bugs": {
     "url": "https://github.com/qwtel/hydejack/issues"
   },
-  "homepage": "https://hydejack.com/",
+  "homepage": "https://pouria.sh/",
   "babel": {
     "presets": [
       "@babel/preset-env"
