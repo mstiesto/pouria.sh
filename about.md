@@ -1,7 +1,6 @@
 ---
-layout: about
-title: About
-description: >
-  About Me
-cover: true
+menu: true
+order: 4
 ---
+
+# About
