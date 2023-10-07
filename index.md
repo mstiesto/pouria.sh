@@ -1,7 +1,6 @@
 ---
 layout: about
-menu: true
-order: 1
+menu: false
 ---
 
 # Home
