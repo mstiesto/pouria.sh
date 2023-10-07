@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: default
 title: Résumé*
 description: >
   This is the `description` of your resume page, as it will be seen by search engines.
