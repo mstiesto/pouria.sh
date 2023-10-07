@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: resume
 menu: true
 ---
 
