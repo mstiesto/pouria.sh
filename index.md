@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 menu: true
 order: 1
 ---
