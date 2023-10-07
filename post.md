@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Impress
+layout: post
+title: Resume
 ---
 
 Name
