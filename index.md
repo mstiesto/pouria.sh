@@ -1,6 +1,6 @@
 ---
-layout: about
-menu: false
+layout: home
+menu: true
 ---
 
 # About
